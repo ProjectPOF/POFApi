@@ -1,8 +1,8 @@
 # POFApi
-- made for growtopia
+- pofapi made by ProB1#0100
 
 ### Info
-- /growtopia_data returns server data
-- /captcha=<puzzle_captcha> returns puzzle captcha result
-- /create_klv?data={"hash": your_hash, "rid": "your rid", "platform": "your platform"} returns created klv packet
-- /mod_uids returns mod userids
+- /growtopia/server_data returns server data
+- /growtopia/captcha=<puzzle_captcha> returns puzzle captcha result
+- /growtopia/create_klv?data={"hash": your_hash, "rid": "your rid", "platform": "your platform"} returns created klv packet
+- /growtopia/mod_uids returns mod userids
