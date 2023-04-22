@@ -28,6 +28,6 @@
 - **/growtopia/mod_uids**:
 
 - **/growtopia/login_packet**:
-- you can send specific datas to put in login packet but it should be known parameters like tankIDName, tankIDPass , ....
-- if you leave alone it creates random requestedName and returns result
+* you can send specific datas to put in login packet but it should be known parameters like tankIDName, tankIDPass , ....
+* if you leave alone it creates random requestedName and returns result
 
