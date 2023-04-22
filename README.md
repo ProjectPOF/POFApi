@@ -9,6 +9,7 @@
 - /growtopia/captcha=<puzzle_captcha> returns puzzle captcha result
 - /growtopia/create_klv?data={"hash": your_hash, "rid": "your rid", "platform": "your platform"} returns created klv packet
 - /growtopia/mod_uids returns mod userids
+- /growtopia/login_packet
 
 ## Growtopia Api Images:
 
@@ -25,3 +26,8 @@
 ![image](https://user-images.githubusercontent.com/50064486/233795635-6dd90aa8-098f-4279-96cd-423124094993.png)
 
 - **/growtopia/mod_uids**:
+
+- **/growtopia/login_packet**:
+- you can send specific datas to put in login packet but it should be known parameters like tankIDName, tankIDPass , ....
+- if you leave alone it creates random requestedName and returns result
+
