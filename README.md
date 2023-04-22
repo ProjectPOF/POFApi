@@ -22,6 +22,6 @@
 
 - **/growtopia/create_klv**:
 
-![image](https://user-images.githubusercontent.com/50064486/233775943-aa198d1f-b0f1-4786-88f1-95c47b4ba0f0.png)
+![image](https://user-images.githubusercontent.com/50064486/233795635-6dd90aa8-098f-4279-96cd-423124094993.png)
 
 - **/growtopia/mod_uids**:
